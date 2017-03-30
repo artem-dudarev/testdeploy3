@@ -6,13 +6,15 @@
             "type": "string"
         },
         "siteLocation": {
-            "type": "string"
+            "type": "string",
+            "defaultValue": "Brazil South"
         },
         "sqlServerName": {
             "type": "string"
         },
         "sqlServerLocation": {
-            "type": "string"
+            "type": "string",
+            "defaultValue": "Brazil South"
         },
         "sqlAdministratorLogin": {
             "type": "string"
